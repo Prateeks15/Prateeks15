@@ -2,6 +2,7 @@
 
 ## About 📜 
 * I am a 🏠Delhi based Full-Stack Developer and Tech-Enthusiast.
+
 * Currently Pursuing B-tech in Computer Science from 🏫Guru Tegh Bahadur Institute Of Technology.
 * I build elegant web apps with state-of-the-art technologies including Node <img src="https://img.icons8.com/windows/30/000000/nodejs.png"/>and React ⚛️.       
 * Also familiar with Cloud Techniques<img src="https://img.icons8.com/color/30/000000/amazon-web-services.png"/>
